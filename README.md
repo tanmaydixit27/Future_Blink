@@ -61,3 +61,7 @@ Start the development server:
 npm start
 
 Open the application in your browser at http://localhost:3000.
+
+
+First Sign Up through the SignUp page then sign in to the app to see the features of it.
+JWT authentication is done for it.
